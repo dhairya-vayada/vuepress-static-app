@@ -1,1 +1,1 @@
-'# Hello from VuePress [Dhairya]' 
+'# Hello from VuePress' 
